@@ -1,0 +1,15 @@
+/home/crative_man/Coding/C#/DungeonsAndConsole/DungeonsAndConsole/bin/Debug/net6.0/DungeonsAndConsole
+/home/crative_man/Coding/C#/DungeonsAndConsole/DungeonsAndConsole/bin/Debug/net6.0/DungeonsAndConsole.deps.json
+/home/crative_man/Coding/C#/DungeonsAndConsole/DungeonsAndConsole/bin/Debug/net6.0/DungeonsAndConsole.runtimeconfig.json
+/home/crative_man/Coding/C#/DungeonsAndConsole/DungeonsAndConsole/bin/Debug/net6.0/DungeonsAndConsole.dll
+/home/crative_man/Coding/C#/DungeonsAndConsole/DungeonsAndConsole/bin/Debug/net6.0/ref/DungeonsAndConsole.dll
+/home/crative_man/Coding/C#/DungeonsAndConsole/DungeonsAndConsole/bin/Debug/net6.0/DungeonsAndConsole.pdb
+/home/crative_man/Coding/C#/DungeonsAndConsole/DungeonsAndConsole/obj/Debug/net6.0/DungeonsAndConsole.csproj.AssemblyReference.cache
+/home/crative_man/Coding/C#/DungeonsAndConsole/DungeonsAndConsole/obj/Debug/net6.0/DungeonsAndConsole.GeneratedMSBuildEditorConfig.editorconfig
+/home/crative_man/Coding/C#/DungeonsAndConsole/DungeonsAndConsole/obj/Debug/net6.0/DungeonsAndConsole.AssemblyInfoInputs.cache
+/home/crative_man/Coding/C#/DungeonsAndConsole/DungeonsAndConsole/obj/Debug/net6.0/DungeonsAndConsole.AssemblyInfo.cs
+/home/crative_man/Coding/C#/DungeonsAndConsole/DungeonsAndConsole/obj/Debug/net6.0/DungeonsAndConsole.csproj.CoreCompileInputs.cache
+/home/crative_man/Coding/C#/DungeonsAndConsole/DungeonsAndConsole/obj/Debug/net6.0/DungeonsAndConsole.dll
+/home/crative_man/Coding/C#/DungeonsAndConsole/DungeonsAndConsole/obj/Debug/net6.0/ref/DungeonsAndConsole.dll
+/home/crative_man/Coding/C#/DungeonsAndConsole/DungeonsAndConsole/obj/Debug/net6.0/DungeonsAndConsole.pdb
+/home/crative_man/Coding/C#/DungeonsAndConsole/DungeonsAndConsole/obj/Debug/net6.0/DungeonsAndConsole.genruntimeconfig.cache
